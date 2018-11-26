@@ -1,1 +1,1 @@
-{"title":"Day 0 Variables","message":"var myName \nmyName = 'alex'\n\nis the same as \n\nvar myName = 'alex'","id":"ffb66e4e-5984-4056-a7b1-cf6911159ea5","date":"2018-11-26T20:10:43.160Z"}
+{"title":"Day 0 Variables","message":"var myName <----declare\nmyName = 'alex'<----assign\n\nis the same as \n\nvar myName = 'alex' <----declare and assign\n\nDeclare = establish a variable \nAssign = give variable a value \n\nData types: strings, numbers","id":"ffb66e4e-5984-4056-a7b1-cf6911159ea5","date":"2018-11-26T20:10:43.160Z","updated":"2018-11-26T20:18:37.438Z"}
